@@ -1,4 +1,4 @@
-# Code source du projet "Déployer un modèle de prévision météo avec une API Flask" écrit pour HyperionDev.
+# Code source du projet "Déployer un modèle de prévision météo avec une API Flask".
 
 Dans ce projet, nous prenons le modèle de regression logistique construit dans model.py qui prédit si dans une ville, il va pleuvoir ou non demain à partir des données comme humidité, vitesse du vent, direction du vent etc.. sous format json. En utilisant Flask pour créer une API, nous pouvons déployer ce modèle et créer une simple page Web pour charger les données des villes et prédire s'il va pleuvoir ou non demain.
 Pour exécuter localement :
